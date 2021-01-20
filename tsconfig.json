@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "umd",
+    "target": "es6",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "removeComments": false,
+    "moduleResolution": "node",
+    "strictNullChecks": true,
+    "downlevelIteration": true
+  },
+  "exclude": [
+    "src",
+    "node_modules",
+    "bower_components",
+    "dist"
+  ]
+}
